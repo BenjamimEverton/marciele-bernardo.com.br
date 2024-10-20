@@ -17,7 +17,6 @@ body {
     align-items: center;
     flex-wrap: wrap;
     padding: 0 10%;
-    position: relative;
     width: 100%;
 }
 
@@ -302,14 +301,16 @@ footer {
     color: #f7695a;
     font-size: 25px;
 }
-.sub{
+
+.sub {
     font-size: 50px;
     color: #f7695a;
     padding-top: 50px;
     text-align: center;
     text-shadow: 1px 2px 3px;
 }
-.cunhada{
+
+.cunhada {
     width: 400px;
     height: 400px;
     text-align: center;
@@ -319,6 +320,4 @@ footer {
     margin-right: 35%;
     border-radius: 5px;
     border: 1px solid white;
-  
-    
 }
